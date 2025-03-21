@@ -1,0 +1,1 @@
+Biodiversity Warrior is an interactive Streamlit web application that explores the relationship between environmental factors and endangered species. Users can adjust key variables like CO₂ levels, mining activity, and forest area changes to estimate their impact on biodiversity.
